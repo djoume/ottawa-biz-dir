@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ottawa-biz-dir/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/ottawa-biz-dir/static/js/main.1a381f7a.chunk.js",
+    "main.js.map": "/ottawa-biz-dir/static/js/main.1a381f7a.chunk.js.map",
+    "runtime-main.js": "/ottawa-biz-dir/static/js/runtime-main.6fa515cb.js",
+    "runtime-main.js.map": "/ottawa-biz-dir/static/js/runtime-main.6fa515cb.js.map",
+    "static/css/2.de424728.chunk.css": "/ottawa-biz-dir/static/css/2.de424728.chunk.css",
+    "static/js/2.bc3236e5.chunk.js": "/ottawa-biz-dir/static/js/2.bc3236e5.chunk.js",
+    "static/js/2.bc3236e5.chunk.js.map": "/ottawa-biz-dir/static/js/2.bc3236e5.chunk.js.map",
+    "index.html": "/ottawa-biz-dir/index.html",
+    "precache-manifest.26f13837ee342fa88102709a6ee243e5.js": "/ottawa-biz-dir/precache-manifest.26f13837ee342fa88102709a6ee243e5.js",
+    "service-worker.js": "/ottawa-biz-dir/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/ottawa-biz-dir/static/css/2.de424728.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/ottawa-biz-dir/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.bc3236e5.chunk.js.LICENSE.txt": "/ottawa-biz-dir/static/js/2.bc3236e5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6fa515cb.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.bc3236e5.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.1a381f7a.chunk.js"
+  ]
+}
