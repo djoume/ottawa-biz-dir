@@ -1,0 +1,26 @@
+Script to add missing location data to google sheet for Ottawa Business Directory Project
+
+# Setup
+
+1. Install python 3.8 using your preferred method (e.g pyenv)
+2. Setup virtualenv
+```
+virtualenv venv
+source venv/bin/activate
+pip install -r requirements.txt
+```
+3. Generate Google Sheet API credentials
+See https://developers.google.com/sheets/api/quickstart/python
+4. Generate Google Maps API key
+See https://developers.google.com/places/web-service/get-api-key
+5. Create a `.env` file
+```
+cp env.example .env
+$EDITOR .env
+```
+
+# Usage
+```
+source venv/bin/active
+python geocode.py
+```
